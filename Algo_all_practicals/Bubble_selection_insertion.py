@@ -67,3 +67,12 @@ insertionSort(arr)
 for i in range(len(arr)):
     print ("% d" % arr[i],end=' ')
 
+    
+#Bubble Sort:
+#The time complexity of the bubble sort algorithm is O(n^2) because it uses nested loops to traverse the array, and the worst-case scenario occurs when the array is sorted in reverse order. The space complexity is O(1) because it only requires a temporary variable to swap elements.
+
+#Selection Sort:
+#The time complexity of the selection sort algorithm is O(n^2) because it uses nested loops to traverse the array, and the worst-case scenario occurs when the array is sorted in reverse order. The space complexity is O(1) because it only requires a temporary variable to swap elements.
+
+#Insertion Sort:
+#The time complexity of the insertion sort algorithm is O(n^2) because it uses nested loops to traverse the array, and the worst-case scenario occurs when the array is sorted in reverse order. The space complexity is O(1) because it only requires a temporary variable to swap elements.
